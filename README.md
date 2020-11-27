@@ -20,9 +20,8 @@ VNC端口为``` 1``` 或者``` 5901``` ,可自行尝试连接.(成功后VNC功�
 ##镜像文件在OneDrive
 wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-od.sh && chmod +x dd-od.sh && ./dd-od.sh
 
-##镜像文件在GoogleDrive
-wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-gd.sh && chmod +x dd-gd.sh && ./dd-gd.sh
-
+## Windows 2019 cxthhhhh.com
+wget -N --no-check-certificate https://raw.githubusercontent.com/vbuterin2/dd/master/dd-gd-win2019.sh && chmod +x dd-gd-win2019.sh && ./dd-gd-win2019.sh
 ```
 
 ## 关于debian8源报错
