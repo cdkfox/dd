@@ -22,6 +22,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/mast
 
 ## Windows 2019 cxthhhhh.com
 wget -N --no-check-certificate https://raw.githubusercontent.com/vbuterin2/dd/master/dd-gd-win2019.sh && chmod +x dd-gd-win2019.sh && ./dd-gd-win2019.sh
+
+## Win 2008 cxthhhhh.com
+wget -N --no-check-certificate https://raw.githubusercontent.com/vbuterin2/dd/master/dd-gd-win2008.sh && chmod +x dd-gd-win2008.sh && ./dd-gd-win2008.sh
 ```
 
 ## 关于debian8源报错
